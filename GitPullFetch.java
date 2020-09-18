@@ -1,3 +1,1 @@
-Git Pull..!!
-
-Git Fetch..!!
+Git
